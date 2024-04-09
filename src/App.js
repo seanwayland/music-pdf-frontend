@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          MUSICPDFS DOT COM 
+          MUSICPDFS DOT COM VERSION 1
         </p>
 
       </header>

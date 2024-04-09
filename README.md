@@ -1,10 +1,13 @@
 # Getting Started with Create React App
+to build :
+### `$yarn build`
+to test :
+### `$npm start`
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+to upload to s3 and rebuild the app 
+`aws s3 ls s3://music-pdf.com`
+`aws s3 cp build s3://music-pdf.com --recursive`
 
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 

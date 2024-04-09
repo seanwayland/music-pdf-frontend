@@ -2,5 +2,5 @@ to build :
 $yarn build
 to test :
 $npm start
-
-
+aws s3 ls s3://music-pdf.com
+aws s3 cp build s3://music-pdf.com --recursive
