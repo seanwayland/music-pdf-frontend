@@ -1,0 +1,8 @@
+$yarn build
+
+#upload here 
+https://us-east-2.console.aws.amazon.com/s3/upload/music-pdfs.com?region=us-east-2&bucketType=general
+
+
+##cloudflare 
+https://dash.cloudflare.com/fffb5515e1790743687aedc4d04cc03f/music-pdf.com/email/routing/settings
